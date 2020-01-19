@@ -1,2 +1,0 @@
-# appium-sample
-appium-sample
